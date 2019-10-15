@@ -1,6 +1,7 @@
 //
 // Created by 方伟 on 2019-10-11.
 //
+// user端编译方式 gcc test4_user.c -o user $(pkg-config --cflags --libs libnl-genl-3.0)
 
 #include <stdio.h>
 #include <stdlib.h>
